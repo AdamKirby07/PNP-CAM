@@ -8,14 +8,6 @@ As a core component of the pick-and-place system, this assembly plays a critical
 
 ---
 
-## Features  
-- Compact plastic enclosure suitable for Boston cameras.
-- Custom circuit board with strategically placed LEDs for optimal lighting.
-- Screw terminal on the bottom for easy connectivity.
-- Supports M3 hardware for secure assembly.
-
----
-
 ## Bill of Materials (BOM)  
 The following components are required for the assembly. Please note that you may need to source parts from your preferred suppliers:
 
