@@ -1,6 +1,6 @@
 # PNP-CAM  
 
-This repository contains the fully open-source design for a Boston camera assembly, specifically designed for a pick-and-place machine. The assembly features a **compact plastic enclosure**, available on AliExpress, that houses a **camera module** mounted on a custom circuit board integrated into the lid.  
+This repository contains the fully open-source design for a bottom camera assembly, specifically designed for a pick-and-place machine. The assembly features a **compact plastic enclosure**, available on AliExpress, that houses a **camera module** mounted on a custom circuit board integrated into the lid.  
 
 The custom circuit board includes **strategically placed LEDs** and a **terminal on the bottom**, ensuring optimal illumination and precise visual quality from the camera. The camera is securely mounted inside the enclosure, extending through an opening to maintain a precise and reliable fit.  
 
